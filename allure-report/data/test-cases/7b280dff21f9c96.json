@@ -1,0 +1,120 @@
+{
+  "uid" : "7b280dff21f9c96",
+  "name" : "Create New Campaign",
+  "fullName" : "Suite - Create Campaign.Create New Campaign",
+  "historyId" : "340a413e20df5efe5787cf32b123d699",
+  "time" : {
+    "start" : 1633433528038,
+    "stop" : 1633433564870,
+    "duration" : 36832
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Clicked on Start a New Campaign button",
+      "time" : {
+        "start" : 1633433528038,
+        "stop" : 1633433528038,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Validate Create Campaign Header->Create New Campaign",
+      "time" : {
+        "start" : 1633433528139,
+        "stop" : 1633433528139,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Create Campaign with Name->Automation_10_05_2021_5_02_08_pm",
+      "time" : {
+        "start" : 1633433528824,
+        "stop" : 1633433528824,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "8f99b21c457a9733",
+      "name" : "Screenshot",
+      "source" : "8f99b21c457a9733.png",
+      "type" : "image/png",
+      "size" : 176801
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testClass",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testMethod",
+    "value" : "Create New Campaign"
+  }, {
+    "name" : "package",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b280dff21f9c96.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}

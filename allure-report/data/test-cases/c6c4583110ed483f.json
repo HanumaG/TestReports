@@ -1,0 +1,105 @@
+{
+  "uid" : "c6c4583110ed483f",
+  "name" : "Verify Invite User page",
+  "fullName" : "Suite - Create Campaign.Verify Invite User page",
+  "historyId" : "4c8024376ec60ee53acb89c538afe471",
+  "time" : {
+    "start" : 1633433507323,
+    "stop" : 1633433517651,
+    "duration" : 10328
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "-> Click on Invite User Link",
+      "time" : {
+        "start" : 1633433507323,
+        "stop" : 1633433507323,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "-> Verify that Invite User text should be -> Invite a User to Ingram Consumer Marketing",
+      "time" : {
+        "start" : 1633433507406,
+        "stop" : 1633433507406,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "7ac01058a3bd1438",
+      "name" : "Screenshot",
+      "source" : "7ac01058a3bd1438.png",
+      "type" : "image/png",
+      "size" : 143630
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testClass",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Invite User page"
+  }, {
+    "name" : "package",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6c4583110ed483f.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}

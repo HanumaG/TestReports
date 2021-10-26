@@ -1,0 +1,70 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Login to Consumer Marketing Portal",
+    "uid" : "b748d6f408cd163e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1633447157077,
+      "stop" : 1633447187842,
+      "duration" : 30765
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.61" ]
+  }, {
+    "name" : "Verify & Validate the MyAccount page",
+    "uid" : "76e096684b4eb132",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1633447187842,
+      "stop" : 1633447213674,
+      "duration" : 25832
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.61" ]
+  }, {
+    "name" : "Verify Invite User page",
+    "uid" : "cd0f7b7b62c268bc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1633447213674,
+      "stop" : 1633447224030,
+      "duration" : 10356
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.61" ]
+  }, {
+    "name" : "Navigate to Dashboard page",
+    "uid" : "4465a9ac1551fef6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1633447224031,
+      "stop" : 1633447234400,
+      "duration" : 10369
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.61" ]
+  }, {
+    "name" : "Create New Campaign",
+    "uid" : "72fcb7ae94951ad6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1633447234400,
+      "stop" : 1633447269861,
+      "duration" : 35461
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.61" ]
+  } ]
+}

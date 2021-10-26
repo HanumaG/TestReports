@@ -1,0 +1,72 @@
+{
+  "uid" : "c6be552461ba99de",
+  "name" : "Navigate to Dashboard page",
+  "fullName" : "Suite - Create Campaign.Navigate to Dashboard page",
+  "historyId" : "3d203c23247cf677826d8851ee42ea92",
+  "time" : {
+    "start" : 1633419933869,
+    "stop" : 1633419934675,
+    "duration" : 806
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "296fc46a5aa5742d",
+      "name" : "Screenshot",
+      "source" : "296fc46a5aa5742d.png",
+      "type" : "image/png",
+      "size" : 121642
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testClass",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigate to Dashboard page"
+  }, {
+    "name" : "package",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6be552461ba99de.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}

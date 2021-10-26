@@ -1,0 +1,72 @@
+{
+  "uid" : "7ae88062325dad72",
+  "name" : "Verify Invite User page",
+  "fullName" : "Suite - Create Campaign.Verify Invite User page",
+  "historyId" : "4c8024376ec60ee53acb89c538afe471",
+  "time" : {
+    "start" : 1633419933376,
+    "stop" : 1633419933869,
+    "duration" : 493
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c135dbee1e06f9f2",
+      "name" : "Screenshot",
+      "source" : "c135dbee1e06f9f2.png",
+      "type" : "image/png",
+      "size" : 122322
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testClass",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Invite User page"
+  }, {
+    "name" : "package",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ae88062325dad72.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}

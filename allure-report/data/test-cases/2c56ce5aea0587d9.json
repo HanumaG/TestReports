@@ -1,0 +1,90 @@
+{
+  "uid" : "2c56ce5aea0587d9",
+  "name" : "Login to Consumer Marketing Portal",
+  "fullName" : "Suite - Create Campaign.Login to Consumer Marketing Portal",
+  "historyId" : "f6dcd0009b3f4983ce019d1a1b55c9ac",
+  "time" : {
+    "start" : 1633419896588,
+    "stop" : 1633419917469,
+    "duration" : 20881
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "-> Navigate & login to Consumer Marketing Portal",
+      "time" : {
+        "start" : 1633419911508,
+        "stop" : 1633419911509,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "a16d2a10913b5c07",
+      "name" : "Screenshot",
+      "source" : "a16d2a10913b5c07.png",
+      "type" : "image/png",
+      "size" : 86122
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testClass",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login to Consumer Marketing Portal"
+  }, {
+    "name" : "package",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c56ce5aea0587d9.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}

@@ -1,0 +1,165 @@
+{
+  "uid" : "72fcb7ae94951ad6",
+  "name" : "Create New Campaign",
+  "fullName" : "Suite - Create Campaign.Create New Campaign",
+  "historyId" : "340a413e20df5efe5787cf32b123d699",
+  "time" : {
+    "start" : 1633447234400,
+    "stop" : 1633447269861,
+    "duration" : 35461
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Clicked on Start a New Campaign button",
+      "time" : {
+        "start" : 1633447234401,
+        "stop" : 1633447234401,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Validate Create Campaign Header->Create New Campaign",
+      "time" : {
+        "start" : 1633447234502,
+        "stop" : 1633447234502,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Create Campaign with Name->Automation_10_05_2021_8_50_35_pm",
+      "time" : {
+        "start" : 1633447235087,
+        "stop" : 1633447235087,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "17b47246b09036e7",
+      "name" : "Screenshot",
+      "source" : "17b47246b09036e7.png",
+      "type" : "image/png",
+      "size" : 179531
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testClass",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testMethod",
+    "value" : "Create New Campaign"
+  }, {
+    "name" : "package",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "7b280dff21f9c96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633433528038,
+        "stop" : 1633433564870,
+        "duration" : 36832
+      }
+    }, {
+      "uid" : "46aed9c8cce6e459",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633419934675,
+        "stop" : 1633419952255,
+        "duration" : 17580
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "27a624ae41d63743",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633433528038,
+          "stop" : 1633433564870,
+          "duration" : 36832
+        }
+      }, {
+        "uid" : "72022d4779c69576",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633419934675,
+          "stop" : 1633419952255,
+          "duration" : 17580
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "72fcb7ae94951ad6.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}

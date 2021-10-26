@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 05 20:49:47 IST 2021","Tue Oct 05 20:50:13 IST 2021","25832","","Suite - Create Campaign","","Suite - Create Campaign","Verify & Validate the MyAccount page","Verify & Validate the MyAccount page",""
+"passed","Tue Oct 05 20:50:13 IST 2021","Tue Oct 05 20:50:24 IST 2021","10356","","Suite - Create Campaign","","Suite - Create Campaign","Verify Invite User page","Verify Invite User page",""
+"passed","Tue Oct 05 20:50:34 IST 2021","Tue Oct 05 20:51:09 IST 2021","35461","","Suite - Create Campaign","","Suite - Create Campaign","Create New Campaign","Create New Campaign",""
+"passed","Tue Oct 05 20:49:17 IST 2021","Tue Oct 05 20:49:47 IST 2021","30765","","Suite - Create Campaign","","Suite - Create Campaign","Login to Consumer Marketing Portal","Login to Consumer Marketing Portal",""
+"passed","Tue Oct 05 20:50:24 IST 2021","Tue Oct 05 20:50:34 IST 2021","10369","","Suite - Create Campaign","","Suite - Create Campaign","Navigate to Dashboard page","Navigate to Dashboard page",""

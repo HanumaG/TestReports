@@ -1,0 +1,51 @@
+[ {
+  "uid" : "b748d6f408cd163e",
+  "name" : "Login to Consumer Marketing Portal",
+  "time" : {
+    "start" : 1633447157077,
+    "stop" : 1633447187842,
+    "duration" : 30765
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "cd0f7b7b62c268bc",
+  "name" : "Verify Invite User page",
+  "time" : {
+    "start" : 1633447213674,
+    "stop" : 1633447224030,
+    "duration" : 10356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76e096684b4eb132",
+  "name" : "Verify & Validate the MyAccount page",
+  "time" : {
+    "start" : 1633447187842,
+    "stop" : 1633447213674,
+    "duration" : 25832
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4465a9ac1551fef6",
+  "name" : "Navigate to Dashboard page",
+  "time" : {
+    "start" : 1633447224031,
+    "stop" : 1633447234400,
+    "duration" : 10369
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "72fcb7ae94951ad6",
+  "name" : "Create New Campaign",
+  "time" : {
+    "start" : 1633447234400,
+    "stop" : 1633447269861,
+    "duration" : 35461
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

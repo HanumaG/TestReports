@@ -1,0 +1,135 @@
+{
+  "uid" : "4465a9ac1551fef6",
+  "name" : "Navigate to Dashboard page",
+  "fullName" : "Suite - Create Campaign.Navigate to Dashboard page",
+  "historyId" : "3d203c23247cf677826d8851ee42ea92",
+  "time" : {
+    "start" : 1633447224031,
+    "stop" : 1633447234400,
+    "duration" : 10369
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "-> Click on Dashboard Link",
+      "time" : {
+        "start" : 1633447224031,
+        "stop" : 1633447224031,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b32a4719789593e4",
+      "name" : "Screenshot",
+      "source" : "b32a4719789593e4.png",
+      "type" : "image/png",
+      "size" : 120807
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testClass",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigate to Dashboard page"
+  }, {
+    "name" : "package",
+    "value" : "Suite - Create Campaign"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ {
+      "uid" : "21927ed37e9721b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633433517651,
+        "stop" : 1633433528038,
+        "duration" : 10387
+      }
+    }, {
+      "uid" : "c6be552461ba99de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633419933869,
+        "stop" : 1633419934675,
+        "duration" : 806
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "ad111e9fa1012d4c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633433517651,
+          "stop" : 1633433528038,
+          "duration" : 10387
+        }
+      }, {
+        "uid" : "cf0ae940461b2e01",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633419933869,
+          "stop" : 1633419934675,
+          "duration" : 806
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4465a9ac1551fef6.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}
